@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/*
+.idea/
+
+# OS
+.DS_Store
