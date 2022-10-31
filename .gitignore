@@ -1,8 +1,13 @@
-.ipynb_checkpoints/
-
 # IDEs
+.ipynb_checkpoints/
 .vscode/*
 .idea/
+.idea
 
 # OS
 .DS_Store
+
+# data
+Crypto_data_daily
+Crypto_data_Hourly
+Crypto_data_minute
